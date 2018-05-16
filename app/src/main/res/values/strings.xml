@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FingerPaint</string>
+    <string name="small_brush_size">Small</string>
+    <string name="medium_brush_size">Medium</string>
+    <string name="large_brush_size">Large</string>
+    <string name="save_drawing">Save</string>
+    <string name="save_drawing_message">Save drawing?</string>
+    <string name="drawing_save_success">Drawing saved</string>
+    <string name="drawing_save_fail">Oops, error occurred while saving! Check permissions.</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="brush_size">Brush size</string>
+    <string name="eraser_size">Eraser size</string>
+
+    <string name="new_drawing">New drawing</string>
+    <string name="new_drawing_message">Start a new drawing? Current drawing will be lost in the process if not saved.</string>
+</resources>
